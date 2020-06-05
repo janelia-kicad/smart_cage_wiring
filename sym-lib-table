@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name smart_cage_wiring)(type Legacy)(uri ${KIPRJMOD}/smart_cage_wiring.lib)(options "")(descr ""))
+  (lib (name components)(type Legacy)(uri ${KILIBS}/components.lib)(options "")(descr ""))
+)
