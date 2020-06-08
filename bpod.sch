@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 3 5
 Title ""
 Date ""
-Rev ""
+Rev "0.2"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -264,4 +264,22 @@ Wire Wire Line
 	6950 6500 6950 5100
 Wire Wire Line
 	6950 5100 7050 5100
+$Comp
+L smart_cage_wiring:SPEAKER SP?
+U 1 1 5EDED8FE
+P 8900 4550
+F 0 "SP?" H 8800 4650 50  0000 L CNN
+F 1 "SPEAKER" V 9100 4500 50  0000 C CNN
+F 2 "" H 8900 4350 50  0001 C CNN
+F 3 "" H 8890 4500 50  0001 C CNN
+F 4 "Audax" H 8900 4550 50  0001 C CNN "Vendor"
+F 5 "tw025a20" H 8900 4550 50  0001 C CNN "PartNumber"
+F 6 "Audax TW025A20 1in Titanium Dome Tweeter" H 8900 4550 50  0001 C CNN "Description"
+	1    8900 4550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8250 4550 8650 4550
+Wire Wire Line
+	8250 4650 8650 4650
 $EndSCHEMATC

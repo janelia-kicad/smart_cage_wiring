@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 5
 Title "smart_cage_wiring"
 Date ""
-Rev "1.0"
+Rev "0.2"
 Comp "Janelia"
 Comment1 ""
 Comment2 ""
