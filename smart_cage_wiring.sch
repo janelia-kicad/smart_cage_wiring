@@ -3,10 +3,10 @@ EELAYER 30 0
 EELAYER END
 $Descr A 11000 8500
 encoding utf-8
-Sheet 1 5
+Sheet 1 6
 Title "smart_cage_wiring"
 Date ""
-Rev "0.2"
+Rev "0.3"
 Comp "Janelia"
 Comment1 ""
 Comment2 ""

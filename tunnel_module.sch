@@ -3,10 +3,10 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 4 5
+Sheet 4 6
 Title ""
 Date ""
-Rev "0.2"
+Rev "0.3"
 Comp ""
 Comment1 ""
 Comment2 ""
